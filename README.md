@@ -13,7 +13,7 @@ To find Your IP address and Hostname, Co-ordinates of the Host, localhost addres
 
 ## For finding [Your IP address and Hostname](https://github.com/Kartikay77/TACKLE-PROBLEMS-OF-CYBER-SECURITY-IN-SOCIAL-NETWORKS/blob/main/NewClass1.java)
 
-![Your IP address and Hostname](https://github.com/Kartikay77/TACKLE-PROBLEMS-OF-CYBER-SECURITY-IN-SOCIAL-NETWORKS/blob/main/media/yourip%2Cyourhostname.jpg.JPG?raw=true)
+![Your IP address and Hostname](https://github.com/Kartikay77/TACKLE-PROBLEMS-OF-CYBER-SECURITY-IN-SOCIAL-NETWORKS/blob/main/media/yourip%2Cyourhostname.jpg?raw=true)
 
 ## Contributing
 1. Fork the project.
